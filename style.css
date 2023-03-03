@@ -14,13 +14,14 @@ body {
 
 .background {
   position: absolute;
-  font-size: 160px;
+  font-size: 140px;
   line-height: 0.9em;
   font-weight: 900;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
   color: #ffb1c5;
+  white-space: nowrap;
 }
 
 .small-text {
